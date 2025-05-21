@@ -1,0 +1,22 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-05-21 13:55:26 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/root": {
+    "criteria": {
+      "example_criterion": "2025-05-21 13:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:windswept_hills": "2025-05-21 13:56:30 +0000",
+      "minecraft:forest": "2025-05-21 13:55:27 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}

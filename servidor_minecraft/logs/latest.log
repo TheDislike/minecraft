@@ -254,3 +254,9 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16:27:52] [Server thread/INFO]: [Jonathanssito: Set own game mode to Survival Mode]
 [16:29:49] [Server thread/INFO]: Jireew has made the advancement [Sweet Dreams]
 [16:29:51] [Server thread/INFO]: Jonathanssito has made the advancement [Sweet Dreams]
+[16:35:07] [Server thread/INFO]: Jireew has made the advancement [Suit Up]
+[16:35:43] [Server thread/INFO]: Jireew has made the advancement [Isn't It Iron Pick]
+[16:39:59] [Server thread/INFO]: [Jonathanssito: Set the time to 1000]
+[16:49:24] [Server thread/INFO]: Jonathanssito has reached the goal [Sandwich Snack]
+[16:49:34] [Server thread/INFO]: [Jonathanssito: Set the time to 1000]
+[16:52:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=164, y=64, z=-223} class_2338{x=165, y=62, z=-225}

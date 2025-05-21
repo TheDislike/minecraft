@@ -260,3 +260,4 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16:49:24] [Server thread/INFO]: Jonathanssito has reached the goal [Sandwich Snack]
 [16:49:34] [Server thread/INFO]: [Jonathanssito: Set the time to 1000]
 [16:52:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=164, y=64, z=-223} class_2338{x=165, y=62, z=-225}
+[16:55:34] [Server thread/INFO]: Jireew has reached the goal [Sandwich Snack]

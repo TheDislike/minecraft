@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "bakery:recipes/oat_seeds": {
+    "criteria": {
+      "has_wheat_seeds": "2025-05-21 16:54:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-21 16:39:20 +0000"
@@ -122,6 +128,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-21 16:44:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -213,6 +225,7 @@
     "criteria": {
       "shrubland": "2025-05-21 16:47:19 +0000",
       "highland": "2025-05-21 16:41:30 +0000",
+      "mystic_grove": "2025-05-21 16:50:43 +0000",
       "orchard": "2025-05-21 16:16:56 +0000"
     },
     "done": false
@@ -244,6 +257,12 @@
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-21 16:44:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
+    "criteria": {
+      "has_glowflower": "2025-05-21 16:55:08 +0000"
     },
     "done": true
   },
@@ -344,6 +363,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_pink_daffodil": "2025-05-21 16:55:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-05-21 16:24:13 +0000"
@@ -365,6 +390,12 @@
   "bakery:recipes/cupcake_display": {
     "criteria": {
       "has_stick": "2025-05-21 16:38:51 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/limestone": {
+    "criteria": {
+      "has_shell": "2025-05-21 16:49:57 +0000"
     },
     "done": true
   },
@@ -392,6 +423,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-05-21 16:49:57 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/tray": {
     "criteria": {
       "has_oak_planks": "2025-05-21 16:27:49 +0000"
@@ -401,6 +438,12 @@
   "minecraft:recipes/redstone/oak_button": {
     "criteria": {
       "has_planks": "2025-05-21 16:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-21 16:54:57 +0000"
     },
     "done": true
   },
@@ -461,6 +504,12 @@
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_logs": "2025-05-21 16:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-05-21 16:49:57 +0000"
     },
     "done": true
   },
@@ -563,6 +612,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-21 16:38:51 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/eat_sandwich": {
+    "criteria": {
+      "eat_sandwich": "2025-05-21 16:55:34 +0000"
     },
     "done": true
   },
@@ -686,9 +741,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-05-21 16:49:57 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2025-05-21 16:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-05-21 16:49:57 +0000"
     },
     "done": true
   },
@@ -724,8 +791,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-05-21 16:50:05 +0000",
       "minecraft:windswept_hills": "2025-05-21 16:12:13 +0000",
-      "minecraft:forest": "2025-05-21 16:12:49 +0000"
+      "minecraft:river": "2025-05-21 16:50:51 +0000",
+      "minecraft:forest": "2025-05-21 16:12:49 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-21 16:50:59 +0000"
     },
     "done": false
   },
@@ -750,6 +820,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-21 16:39:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-05-21 16:53:06 +0000"
     },
     "done": true
   },
@@ -843,6 +919,12 @@
       "wild_barley": "2025-05-21 16:14:47 +0000",
       "wild_onion": "2025-05-21 16:14:47 +0000",
       "wild_oat": "2025-05-21 16:14:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_blue_hydrangea": {
+    "criteria": {
+      "has_blue_hydrangea": "2025-05-21 16:52:53 +0000"
     },
     "done": true
   },

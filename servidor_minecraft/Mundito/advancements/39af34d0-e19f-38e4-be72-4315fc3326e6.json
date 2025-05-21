@@ -33,6 +33,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-05-21 17:14:22 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/oat_seeds": {
     "criteria": {
       "has_wheat_seeds": "2025-05-21 16:54:37 +0000"
@@ -268,6 +274,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-21 17:08:27 +0000",
       "minecraft:spider": "2025-05-21 16:14:33 +0000",
+      "minecraft:enderman": "2025-05-21 17:10:30 +0000",
       "minecraft:zombie": "2025-05-21 17:00:54 +0000",
       "minecraft:zombie_villager": "2025-05-21 16:13:16 +0000"
     },
@@ -319,6 +326,12 @@
   "bakery:recipes/street_sign": {
     "criteria": {
       "has_oak_planks": "2025-05-21 16:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-21 17:09:49 +0000"
     },
     "done": true
   },
@@ -580,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-05-21 17:14:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-05-21 16:38:46 +0000"
@@ -763,6 +782,12 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-05-21 16:23:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-05-21 17:14:22 +0000"
     },
     "done": true
   },

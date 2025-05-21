@@ -261,3 +261,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [16:49:34] [Server thread/INFO]: [Jonathanssito: Set the time to 1000]
 [16:52:52] [Server thread/WARN]: Mismatch in destroy block pos: class_2338{x=164, y=64, z=-223} class_2338{x=165, y=62, z=-225}
 [16:55:34] [Server thread/INFO]: Jireew has reached the goal [Sandwich Snack]
+[17:05:41] [Server thread/INFO]: Jonathanssito has made the advancement [Stone Age]
+[17:05:45] [Server thread/INFO]: Jireew has made the advancement [Monster Hunter]
+[17:06:32] [Server thread/INFO]: Jonathanssito has made the advancement [Getting an Upgrade]

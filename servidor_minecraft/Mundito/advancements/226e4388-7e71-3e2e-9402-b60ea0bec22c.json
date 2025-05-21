@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-21 17:08:07 +0000"
+    },
+    "done": true
+  },
   "bakery:recipes/sandwich": {
     "criteria": {
       "has_bread": "2025-05-21 16:31:17 +0000"
@@ -176,6 +182,12 @@
   "bakery:recipes/cabinet": {
     "criteria": {
       "has_oak_planks": "2025-05-21 16:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-21 17:08:07 +0000"
     },
     "done": true
   },
@@ -260,6 +272,14 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-21 17:05:45 +0000",
+      "minecraft:spider": "2025-05-21 17:08:06 +0000",
+      "minecraft:zombie": "2025-05-21 17:06:46 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:recipes/misc/cyan_dye_from_glowflower": {
     "criteria": {
       "has_glowflower": "2025-05-21 16:55:08 +0000"
@@ -297,6 +317,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-21 17:08:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-21 17:05:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-21 16:39:20 +0000"
@@ -330,6 +362,12 @@
   "bakery:recipes/drawer": {
     "criteria": {
       "has_oak_planks": "2025-05-21 16:27:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-21 17:08:07 +0000"
     },
     "done": true
   },
@@ -747,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-21 17:08:07 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_shelf": {
     "criteria": {
       "has_planks": "2025-05-21 16:39:20 +0000"
@@ -783,9 +827,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-05-21 17:08:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2025-05-21 16:35:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-21 17:05:45 +0000"
     },
     "done": true
   },
@@ -874,6 +930,12 @@
   "another_furniture:recipes/furniture_hammer": {
     "criteria": {
       "has_stick": "2025-05-21 16:38:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-21 17:08:07 +0000"
     },
     "done": true
   },

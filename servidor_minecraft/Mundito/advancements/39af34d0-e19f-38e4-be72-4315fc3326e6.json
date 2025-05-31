@@ -45,6 +45,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-21 17:19:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-05-21 16:39:13 +0000"
@@ -87,15 +93,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-21 17:19:35 +0000"
+    },
+    "done": true
+  },
   "farm_and_charm:recipes/carrot_bag": {
     "criteria": {
       "has_carrot": "2025-05-21 16:59:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2025-05-21 17:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2025-05-21 17:29:11 +0000"
     },
     "done": true
   },
@@ -108,6 +132,12 @@
   "another_furniture:recipes/oak_chair": {
     "criteria": {
       "has_planks": "2025-05-21 16:27:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
     },
     "done": true
   },
@@ -186,6 +216,12 @@
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-21 17:06:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-05-21 17:21:54 +0000"
     },
     "done": true
   },
@@ -341,6 +377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-21 17:05:41 +0000"
@@ -449,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/redwood_boat": {
     "criteria": {
       "in_water": "2025-05-21 16:15:03 +0000"
@@ -545,6 +593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/jungle_drawer": {
     "criteria": {
       "has_planks": "2025-05-21 16:38:46 +0000"
@@ -572,6 +626,12 @@
   "another_furniture:recipes/white_sofa": {
     "criteria": {
       "has_wool": "2025-05-21 16:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-21 17:29:11 +0000"
     },
     "done": true
   },
@@ -659,6 +719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-21 16:37:52 +0000"
@@ -710,6 +776,12 @@
   "niftycarts:recipes/supply_cart": {
     "criteria": {
       "has_wheel": "2025-05-21 16:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-05-21 17:21:01 +0000"
     },
     "done": true
   },
@@ -851,6 +923,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-05-21 17:29:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-05-21 16:38:46 +0000"
@@ -866,6 +944,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-05-21 17:07:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
     },
     "done": true
   },
@@ -929,6 +1013,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-05-21 16:53:17 +0000"
@@ -937,6 +1027,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-21 17:22:25 +0000",
+      "cooked_mutton": "2025-05-21 17:29:06 +0000",
       "beetroot": "2025-05-21 16:15:11 +0000",
       "carrot": "2025-05-21 17:01:32 +0000"
     },
@@ -951,6 +1043,12 @@
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2025-05-21 17:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
     },
     "done": true
   },
@@ -990,6 +1088,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-05-21 17:30:30 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/birch_drawer": {
     "criteria": {
       "has_planks": "2025-05-21 16:38:46 +0000"
@@ -999,6 +1103,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-05-21 17:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-05-21 17:21:01 +0000"
     },
     "done": true
   },

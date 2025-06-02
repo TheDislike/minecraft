@@ -1,11 +1,11 @@
-[03:12:42] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.14
-[03:12:42] [ForkJoinPool-1-worker-2/WARN]: The mod "farm_and_charm" contains invalid entries in its mod json:
+[02:30:38] [main/INFO]: Loading Minecraft 1.20.1 with Fabric Loader 0.16.14
+[02:30:38] [ForkJoinPool-1-worker-2/WARN]: The mod "farm_and_charm" contains invalid entries in its mod json:
 - Unsupported root entry "credits" at line 10 column 12
-[03:12:42] [ForkJoinPool-1-worker-4/WARN]: Mod naturalist uses the version 5.0pre2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0pre2'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
-[03:12:42] [main/WARN]: Warnings were found!
+[02:30:38] [ForkJoinPool-1-worker-4/WARN]: Mod naturalist uses the version 5.0pre2 which isn't compatible with Loader's extended semantic version format (Could not parse version number component '0pre2'!), SemVer is recommended for reliably evaluating dependencies and prioritizing newer version
+[02:30:39] [main/WARN]: Warnings were found!
  - Mod '[Let's Do] Farm & Charm' (farm_and_charm) 1.0.6 conflicts with any version before 2.0.0 of mod '[Let's Do] Bakery' (bakery), which is present with the following versions: 1.1.15!
 	 - While this won't prevent you from starting the game, the developer(s) of mod '[Let's Do] Farm & Charm' (farm_and_charm) have found that this combination may cause issues. You should remove one of the mods or check for updates that resolve the issue.
-[03:12:42] [main/INFO]: Loading 91 mods:
+[02:30:39] [main/INFO]: Loading 91 mods:
 	- another_furniture 1.20.1-3.0.1
 	- architectury 9.2.14
 	- bakery 1.1.15
@@ -115,45 +115,46 @@
 	- yungsapi 1.20-Fabric-4.0.6
 	   |-- org_javassist_javassist 3.29.2-GA
 	   \-- org_reflections_reflections 0.10.2
-[03:12:42] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
-[03:12:42] [main/INFO]: Compatibility level set to JAVA_17
-[03:12:43] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
-[03:12:43] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
-[03:12:43] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
-[03:12:43] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[03:12:45] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin from mod crittersandcompanions::handler$zeb000$crittersandcompanions$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[03:12:45] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$zom000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[03:12:52] [main/ERROR]: No data fixer registered for bakery:wandering_baker
-[03:12:53] [main/ERROR]: No data fixer registered for dragonfly
-[03:12:53] [main/ERROR]: No data fixer registered for dumbo_octopus
-[03:12:53] [main/ERROR]: No data fixer registered for ferret
-[03:12:53] [main/ERROR]: No data fixer registered for jumping_spider
-[03:12:53] [main/ERROR]: No data fixer registered for koi_fish
-[03:12:53] [main/ERROR]: No data fixer registered for leaf_insect
-[03:12:53] [main/ERROR]: No data fixer registered for otter
-[03:12:53] [main/ERROR]: No data fixer registered for red_panda
-[03:12:53] [main/ERROR]: No data fixer registered for sea_bunny
-[03:12:53] [main/ERROR]: No data fixer registered for shima_enaga
-[03:12:53] [main/ERROR]: No data fixer registered for doapi:chair
-[03:12:55] [main/ERROR]: No data fixer registered for farm_and_charm:rotten_tomato
-[03:12:55] [main/ERROR]: No data fixer registered for farm_and_charm:supply_cart
-[03:12:55] [main/ERROR]: No data fixer registered for farm_and_charm:plow
-[03:12:55] [main/ERROR]: No data fixer registered for farm_and_charm:chair
-[03:12:55] [main/ERROR]: No data fixer registered for biomesoplenty:boat
-[03:12:55] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
-[03:12:55] [main/ERROR]: No data fixer registered for anomaly
-[03:12:56] [main/ERROR]: No data fixer registered for 
-[03:12:56] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
-[03:12:56] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
-[03:12:56] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
-[03:12:56] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
-[03:12:56] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
-[03:12:56] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
-[03:12:56] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
-[03:12:56] [main/INFO]: Reflections took 41 ms to scan 1 urls, producing 1 keys and 4 values
-[03:12:56] [main/INFO]: Reflections took 4 ms to scan 1 urls, producing 1 keys and 4 values
-[03:12:56] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[03:12:58] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:naturalist:entities/tortoise
+[02:30:39] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.7 Source=file:/workspaces/minecraft/servidor_minecraft/libraries/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar Service=Knot/Fabric Env=SERVER
+[02:30:39] [main/INFO]: Compatibility level set to JAVA_17
+[02:30:40] [main/WARN]: Error loading class: net/minecraft/class_906 (java.lang.ClassNotFoundException: net/minecraft/class_906)
+[02:30:40] [main/WARN]: @Mixin target net.minecraft.class_906 was not found porting_lib_tool_actions.mixins.json:FishingHookRendererMixin from mod porting_lib_tool_actions
+[02:30:40] [main/WARN]: Error loading class: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider (java.lang.ClassNotFoundException: net/fabricmc/fabric/api/client/rendering/v1/EntityModelLayerRegistry$TexturedModelDataProvider)
+[02:30:40] [main/INFO]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[02:30:42] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=1 on crittersandcompanions.mixins.json:LivingEntityMixin from mod crittersandcompanions::handler$zeb000$crittersandcompanions$onDie exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[02:30:42] [main/WARN]: @Inject(@At("INVOKE")) Shift.BY=2 on porting_lib_entity.mixins.json:common.LivingEntityMixin from mod porting_lib_entity::handler$zom000$porting_lib_entity$port_lib$onFinishUsing exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[02:30:53] [main/ERROR]: No data fixer registered for bakery:wandering_baker
+[02:30:53] [main/ERROR]: No data fixer registered for dragonfly
+[02:30:53] [main/ERROR]: No data fixer registered for dumbo_octopus
+[02:30:53] [main/ERROR]: No data fixer registered for ferret
+[02:30:53] [main/ERROR]: No data fixer registered for jumping_spider
+[02:30:53] [main/ERROR]: No data fixer registered for koi_fish
+[02:30:53] [main/ERROR]: No data fixer registered for leaf_insect
+[02:30:53] [main/ERROR]: No data fixer registered for otter
+[02:30:53] [main/ERROR]: No data fixer registered for red_panda
+[02:30:53] [main/ERROR]: No data fixer registered for sea_bunny
+[02:30:53] [main/ERROR]: No data fixer registered for shima_enaga
+[02:30:53] [main/ERROR]: No data fixer registered for doapi:chair
+[02:30:56] [main/ERROR]: No data fixer registered for farm_and_charm:rotten_tomato
+[02:30:56] [main/ERROR]: No data fixer registered for farm_and_charm:supply_cart
+[02:30:56] [main/ERROR]: No data fixer registered for farm_and_charm:plow
+[02:30:56] [main/ERROR]: No data fixer registered for farm_and_charm:chair
+[02:30:57] [main/ERROR]: No data fixer registered for biomesoplenty:boat
+[02:30:57] [main/ERROR]: No data fixer registered for biomesoplenty:chest_boat
+[02:30:57] [main/ERROR]: No data fixer registered for anomaly
+[02:30:57] [main/ERROR]: No data fixer registered for 
+[02:30:57] [main/INFO]: Registered region minecraft:overworld to index 0 for type OVERWORLD
+[02:30:57] [main/INFO]: Registered region minecraft:nether to index 0 for type NETHER
+[02:30:57] [main/INFO]: Registered region biomesoplenty:overworld_primary to index 1 for type OVERWORLD
+[02:30:57] [main/INFO]: Registered region biomesoplenty:overworld_secondary to index 2 for type OVERWORLD
+[02:30:57] [main/INFO]: Registered region biomesoplenty:overworld_rare to index 3 for type OVERWORLD
+[02:30:57] [main/INFO]: Registered region biomesoplenty:nether_common to index 1 for type NETHER
+[02:30:57] [main/INFO]: Registered region biomesoplenty:nether_rare to index 2 for type NETHER
+[02:30:57] [main/INFO]: Reflections took 60 ms to scan 1 urls, producing 1 keys and 4 values
+[02:30:58] [main/INFO]: Reflections took 5 ms to scan 1 urls, producing 1 keys and 4 values
+[02:30:58] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02:30:59] [main/INFO]: [fabric-registry-sync] Loaded registry data [file 1/4]
+[02:31:00] [Worker-Main-1/ERROR]: Couldn't parse element loot_tables:naturalist:entities/tortoise
 com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown string 'minecraft:turtle_scute'
 	at net.minecraft.class_3518.method_17995(class_3518.java:145) ~[server-intermediary.jar:?]
 	at java.util.Optional.orElseThrow(Optional.java:403) ~[?:?]
@@ -204,103 +205,44 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?]
-[03:12:58] [main/INFO]: Loaded 18 recipes
-[03:12:58] [main/ERROR]: Parsing error loading custom advancement overweight_farming:husbandry/peel_overweight_onion: Failed to parse 'location' field
-[03:12:58] [main/ERROR]: Parsing error loading custom advancement overweight_farming:husbandry/unpeel_vegetables: Failed to parse 'location' field
-[03:12:58] [main/INFO]: Loaded 2047 advancements
-[03:13:00] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
-[03:13:01] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
-[03:13:01] [main/INFO]: Applied 1022 biome modifications to 134 of 134 new biomes in 28.83 ms
-[03:13:01] [Server thread/ERROR]: Registry 'terraform:boat' was empty after loading
-[03:13:01] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[03:13:01] [Server thread/INFO]: Loading properties
-[03:13:01] [Server thread/INFO]: Default game type: SURVIVAL
-[03:13:01] [Server thread/INFO]: Generating keypair
-[03:13:01] [Server thread/INFO]: Starting Minecraft server on *:25565
-[03:13:01] [Server thread/INFO]: Using epoll channel type
-[03:13:01] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[03:13:01] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[03:13:01] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[03:13:01] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[03:13:01] [Server thread/INFO]: Preparing level "Mundito"
-[03:13:11] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[03:13:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:13:12] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:13:12] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:13:13] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[03:13:13] [Worker-Main-2/INFO]: Preparing spawn area: 0%
-[03:13:14] [Worker-Main-3/INFO]: Preparing spawn area: 0%
-[03:13:14] [Worker-Main-1/INFO]: Preparing spawn area: 1%
-[03:13:15] [Worker-Main-3/INFO]: Preparing spawn area: 1%
-[03:13:15] [Worker-Main-3/INFO]: Preparing spawn area: 2%
-[03:13:16] [Worker-Main-3/INFO]: Preparing spawn area: 3%
-[03:13:16] [Worker-Main-2/INFO]: Preparing spawn area: 4%
-[03:13:17] [Worker-Main-1/INFO]: Preparing spawn area: 5%
-[03:13:17] [Worker-Main-3/INFO]: Preparing spawn area: 6%
-[03:13:18] [Worker-Main-1/INFO]: Preparing spawn area: 8%
-[03:13:18] [Worker-Main-2/INFO]: Preparing spawn area: 9%
-[03:13:19] [Worker-Main-1/INFO]: Preparing spawn area: 11%
-[03:13:19] [Worker-Main-2/INFO]: Preparing spawn area: 13%
-[03:13:20] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[03:13:20] [Worker-Main-1/INFO]: Preparing spawn area: 15%
-[03:13:21] [Worker-Main-3/INFO]: Preparing spawn area: 17%
-[03:13:21] [Worker-Main-3/INFO]: Preparing spawn area: 19%
-[03:13:22] [Worker-Main-1/INFO]: Preparing spawn area: 22%
-[03:13:22] [Worker-Main-2/INFO]: Preparing spawn area: 22%
-[03:13:23] [Worker-Main-3/INFO]: Preparing spawn area: 24%
-[03:13:23] [Worker-Main-1/INFO]: Preparing spawn area: 26%
-[03:13:24] [Worker-Main-3/INFO]: Preparing spawn area: 28%
-[03:13:24] [Worker-Main-1/INFO]: Preparing spawn area: 30%
-[03:13:25] [Worker-Main-2/INFO]: Preparing spawn area: 31%
-[03:13:25] [Worker-Main-1/INFO]: Preparing spawn area: 32%
-[03:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 34%
-[03:13:26] [Worker-Main-1/INFO]: Preparing spawn area: 37%
-[03:13:27] [Worker-Main-1/INFO]: Preparing spawn area: 40%
-[03:13:27] [Worker-Main-3/INFO]: Preparing spawn area: 42%
-[03:13:28] [Worker-Main-3/INFO]: Preparing spawn area: 43%
-[03:13:28] [Worker-Main-3/INFO]: Preparing spawn area: 45%
-[03:13:29] [Worker-Main-2/INFO]: Preparing spawn area: 48%
-[03:13:29] [Worker-Main-3/INFO]: Preparing spawn area: 51%
-[03:13:30] [Worker-Main-2/INFO]: Preparing spawn area: 54%
-[03:13:30] [Worker-Main-1/INFO]: Preparing spawn area: 55%
-[03:13:31] [Worker-Main-1/INFO]: Preparing spawn area: 58%
-[03:13:31] [Worker-Main-1/INFO]: Preparing spawn area: 60%
-[03:13:32] [Worker-Main-1/INFO]: Preparing spawn area: 62%
-[03:13:32] [Worker-Main-3/INFO]: Preparing spawn area: 66%
-[03:13:33] [Worker-Main-3/INFO]: Preparing spawn area: 68%
-[03:13:33] [Worker-Main-1/INFO]: Preparing spawn area: 69%
-[03:13:34] [Worker-Main-3/INFO]: Preparing spawn area: 71%
-[03:13:34] [Worker-Main-3/INFO]: Preparing spawn area: 74%
-[03:13:35] [Worker-Main-3/INFO]: Preparing spawn area: 75%
-[03:13:35] [Worker-Main-1/INFO]: Preparing spawn area: 78%
-[03:13:36] [Worker-Main-2/INFO]: Preparing spawn area: 81%
-[03:13:36] [Worker-Main-1/INFO]: Preparing spawn area: 83%
-[03:13:37] [Worker-Main-3/INFO]: Preparing spawn area: 85%
-[03:13:37] [Worker-Main-3/INFO]: Preparing spawn area: 88%
-[03:13:38] [Worker-Main-2/INFO]: Preparing spawn area: 89%
-[03:13:38] [Worker-Main-1/INFO]: Preparing spawn area: 92%
-[03:13:39] [Worker-Main-3/INFO]: Preparing spawn area: 95%
-[03:13:39] [Worker-Main-1/INFO]: Preparing spawn area: 98%
-[03:13:40] [Server thread/INFO]: Time elapsed: 28325 ms
-[03:13:40] [Server thread/INFO]: Done (38.075s)! For help, type "help"
-[03:14:23] [Server thread/INFO]: Jonathanssito[/127.225.88.44:42231] logged in with entity id 278 at (-39.5, 68.0, -8.5)
-[03:14:23] [Server thread/INFO]: Jonathanssito joined the game
-[03:14:40] [Server thread/INFO]: Jireew[/127.193.65.128:50331] logged in with entity id 461 at (-45.5, 74.0, -9.5)
-[03:14:40] [Server thread/INFO]: Jireew joined the game
-[03:15:10] [Server thread/INFO]: Jireew lost connection: Timed out
-[03:15:10] [Server thread/INFO]: Jireew left the game
-[03:15:54] [Server thread/INFO]: Jireew[/127.193.65.128:36777] logged in with entity id 622 at (-45.5, 74.0, -9.5)
-[03:15:54] [Server thread/INFO]: Jireew joined the game
-[03:16:24] [Server thread/INFO]: Jireew lost connection: Timed out
-[03:16:24] [Server thread/INFO]: Jireew left the game
-[03:18:35] [Server thread/INFO]: Jireew[/127.193.65.128:52455] logged in with entity id 883 at (-45.5, 74.0, -9.5)
-[03:18:35] [Server thread/INFO]: Jireew joined the game
-[03:19:06] [Server thread/INFO]: Jireew lost connection: Timed out
-[03:19:06] [Server thread/INFO]: Jireew left the game
-[03:19:31] [Server thread/INFO]: Jonathanssito lost connection: Disconnected
-[03:19:31] [Server thread/INFO]: Jonathanssito left the game
-[03:20:41] [Server thread/INFO]: Jireew[/127.193.65.128:36895] logged in with entity id 965 at (-45.5, 74.0, -9.5)
-[03:20:41] [Server thread/INFO]: Jireew joined the game
-[03:21:28] [Server thread/INFO]: Jonathanssito[/127.225.88.44:58135] logged in with entity id 1045 at (-38.1299654465704, 68.0, -4.435654466828554)
-[03:21:28] [Server thread/INFO]: Jonathanssito joined the game
-[03:22:28] [Server thread/INFO]: [Not Secure] <Jonathanssito> ola amor <3
+[02:31:00] [main/INFO]: Loaded 18 recipes
+[02:31:01] [main/ERROR]: Parsing error loading custom advancement overweight_farming:husbandry/peel_overweight_onion: Failed to parse 'location' field
+[02:31:01] [main/ERROR]: Parsing error loading custom advancement overweight_farming:husbandry/unpeel_vegetables: Failed to parse 'location' field
+[02:31:01] [main/INFO]: Loaded 2047 advancements
+[02:31:03] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:the_nether
+[02:31:04] [main/INFO]: Initialized TerraBlender biomes for level stem minecraft:overworld
+[02:31:04] [main/INFO]: Applied 1022 biome modifications to 134 of 134 new biomes in 29.47 ms
+[02:31:04] [Server thread/ERROR]: Registry 'terraform:boat' was empty after loading
+[02:31:04] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[02:31:04] [Server thread/INFO]: Loading properties
+[02:31:04] [Server thread/INFO]: Default game type: SURVIVAL
+[02:31:04] [Server thread/INFO]: Generating keypair
+[02:31:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:31:04] [Server thread/INFO]: Using epoll channel type
+[02:31:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:31:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:31:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:31:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:31:04] [Server thread/INFO]: Preparing level "Mundito"
+[02:31:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:31:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:31:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:31:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:31:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:31:15] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:31:15] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[02:31:15] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[02:31:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:31:16] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[02:31:17] [Worker-Main-2/INFO]: Preparing spawn area: 2%
+[02:31:18] [Worker-Main-3/INFO]: Preparing spawn area: 48%
+[02:31:18] [Server thread/INFO]: Time elapsed: 6397 ms
+[02:31:18] [Server thread/INFO]: Done (13.859s)! For help, type "help"
+[02:35:25] [Server thread/INFO]: Jonathanssito[/127.225.88.44:35695] logged in with entity id 156 at (-37.16959014964201, 70.0, 1.7074531090454543)
+[02:35:25] [Server thread/INFO]: Jonathanssito joined the game
+[02:35:46] [Server thread/INFO]: [Jonathanssito: Set the time to 1000]
+[02:36:07] [Server thread/INFO]: Jonathanssito has made the advancement [Monster Hunter]
+[02:40:22] [Server thread/INFO]: Jonathanssito lost connection: Disconnected
+[02:40:22] [Server thread/INFO]: Jonathanssito left the game

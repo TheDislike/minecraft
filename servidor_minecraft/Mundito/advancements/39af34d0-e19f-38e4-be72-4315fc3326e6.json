@@ -7,7 +7,8 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "snowblossom_grove": "2025-05-31 03:14:24 +0000"
+      "snowblossom_grove": "2025-05-31 03:14:24 +0000",
+      "snowy_fir_clearing": "2025-05-31 03:26:46 +0000"
     },
     "done": false
   },
@@ -20,6 +21,106 @@
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "snowblossom_grove": "2025-05-31 03:14:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_river": "2025-05-31 03:23:28 +0000",
+      "minecraft:snowy_beach": "2025-05-31 03:22:39 +0000"
+    },
+    "done": false
+  },
+  "naturalist:recipes/food/cooked_egg": {
+    "criteria": {
+      "has_eggs": "2025-06-02 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-02 02:36:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-06-02 02:36:14 +0000"
+    },
+    "done": true
+  },
+  "niftycarts:recipes/supply_cart": {
+    "criteria": {
+      "has_wheel": "2025-06-02 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-06-02 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "niftycarts:recipes/plow": {
+    "criteria": {
+      "has_wheel": "2025-06-02 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-06-02 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-06-02 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "rotten_flesh": "2025-06-02 02:36:14 +0000"
+    },
+    "done": false
+  },
+  "niftycarts:recipes/hand_cart": {
+    "criteria": {
+      "has_wheel": "2025-06-02 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "farm_and_charm:main/find_wild_crops": {
+    "criteria": {
+      "oat": "2025-06-02 02:36:07 +0000",
+      "wild_strawberry": "2025-06-02 02:36:07 +0000",
+      "corn": "2025-06-02 02:36:07 +0000",
+      "onion": "2025-06-02 02:36:07 +0000",
+      "wild_corn": "2025-06-02 02:36:07 +0000",
+      "wild_ribwort": "2025-06-02 02:36:07 +0000",
+      "strawberry": "2025-06-02 02:36:07 +0000",
+      "wild_nettle": "2025-06-02 02:36:07 +0000",
+      "barley": "2025-06-02 02:36:07 +0000",
+      "tomato": "2025-06-02 02:36:07 +0000",
+      "lettuce": "2025-06-02 02:36:07 +0000",
+      "wild_lettuce": "2025-06-02 02:36:07 +0000",
+      "wild_tomatoes": "2025-06-02 02:36:07 +0000",
+      "oat_seeds": "2025-06-02 02:36:07 +0000",
+      "tomato_seeds": "2025-06-02 02:36:07 +0000",
+      "barley_seeds": "2025-06-02 02:36:07 +0000",
+      "strawberry_seeds": "2025-06-02 02:36:07 +0000",
+      "lettuce_seeds": "2025-06-02 02:36:07 +0000",
+      "kernels": "2025-06-02 02:36:07 +0000",
+      "wild_barley": "2025-06-02 02:36:07 +0000",
+      "wild_onion": "2025-06-02 02:36:07 +0000",
+      "wild_oat": "2025-06-02 02:36:07 +0000"
+    },
+    "done": true
+  },
+  "niftycarts:recipes/animal_cart": {
+    "criteria": {
+      "has_wheel": "2025-06-02 02:36:07 +0000"
     },
     "done": true
   },
